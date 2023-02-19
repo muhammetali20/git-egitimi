@@ -10,4 +10,6 @@ Branch - dal
 -git branch <dal adı> diyerek dal oluşturulabilir
 -git branch -a diyerek dallar listelenir
 -git chechout <dal ad> ile o dala geçiş yapabilirsin
-
+-git checkout -b <dal adı> ile o dalı hem oluştururuz hem geçiş yaparız
+-git branch -D ile dalı sileriz
+-git merge <dal adı> ile dalları birbirine birleştiririz
